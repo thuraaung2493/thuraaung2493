@@ -1,6 +1,6 @@
 # Hi, I'm Thura Aung
 
-**Full Stack Developer · Thung Khru, Bangkok**
+**Full Stack Developer · Bangkok, Thailand**
 
 Building financial applications, payment integrations, and developer tools with Laravel, Node.js, and React.
 
