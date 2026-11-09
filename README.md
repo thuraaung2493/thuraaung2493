@@ -39,7 +39,7 @@ A Laravel package for database-backed business rules, nested policy groups, and 
 
 A JSON-driven form platform with a framework-independent engine, reusable React packages, and a visual builder backed by an Express API and PostgreSQL. Supports conditional fields, calculations, validation, draft saves, and immutable published versions.
 
-[View on npm](https://www.npmjs.com/package/@thuraaung2493/dynamic-form-react)
+[View on NPM](https://www.npmjs.com/package/@thuraaung2493/dynamic-form-react)
 
 ### [mm-nrc-converter](https://github.com/thuraaung2493/mm-nrc-converter)
 
