@@ -4,7 +4,7 @@
 
 Building financial applications, payment integrations, and developer tools with Laravel, Node.js, and React.
 
-I build web applications and APIs for financial services, with hands-on experience in offline field workflows and payment integrations. My work spans Laravel and MySQL backends, React interfaces, and Node.js services. I also create open-source tools for Laravel business rules, schema-driven forms, Myanmar data conversion, and TypeScript API scaffolding.
+I build web applications and APIs for financial services, with hands-on experience in offline field workflows and payment integrations. My work spans Laravel and MySQL backends, React interfaces, and Node.js services. I also create open-source tools for Laravel business rules, schema-driven forms, Myanmar NRC data conversion, and TypeScript API scaffolding.
 
 **Open to full-time roles and freelance projects.**
 
