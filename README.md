@@ -8,7 +8,7 @@ I build web applications and APIs for financial services, with hands-on experien
 
 **Open to full-time roles and freelance projects.**
 
-[Portfolio](https://thuraaung2493.github.io/) · [Resume](https://thura-cv.s3.ap-southeast-1.amazonaws.com/ThuraAung(Full-stack+Web+Developer).pdf) · [LinkedIn](https://www.linkedin.com/in/thura-aung-018a5a183/) · [Email](mailto:thuraaung2493@gmail.com)
+[Portfolio](https://thuraaung2493.github.io/) · [Resume](<https://thura-cv.s3.ap-southeast-1.amazonaws.com/ThuraAung(Full-stack+Web+Developer).pdf>) · [LinkedIn](https://www.linkedin.com/in/thura-aung-018a5a183/) · [Email](mailto:thuraaung2493@gmail.com)
 
 ## What I work on
 
@@ -19,13 +19,13 @@ I build web applications and APIs for financial services, with hands-on experien
 
 ## Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| Languages | PHP, JavaScript, TypeScript |
-| Backend | Laravel, Node.js, Express |
-| Frontend | React, Tailwind CSS, Bootstrap |
-| Databases | MySQL, PostgreSQL |
-| Tools | Git, GitHub Actions |
+| Area      | Technologies                   |
+| --------- | ------------------------------ |
+| Languages | PHP, JavaScript, TypeScript    |
+| Backend   | Laravel, Node.js, Express      |
+| Frontend  | React, Tailwind CSS, Bootstrap |
+| Databases | MySQL, PostgreSQL              |
+| Tools     | Git, GitHub Actions            |
 
 ## Featured projects
 
@@ -33,34 +33,34 @@ I build web applications and APIs for financial services, with hands-on experien
 
 A Laravel package for database-backed business rules, nested policy groups, and conditional role permissions, with an embeddable visual rule builder. Supports Symfony expressions, optional Spatie Laravel Permission integration, and versioned JSON import/export.
 
-[Read documentation](https://github.com/thuraaung2493/laravel-rulecraft#readme)
+[View on Packagist](https://packagist.org/packages/thuraaung2493/laravel-rulecraft)
 
 ### [Dynamix Forms](https://github.com/thuraaung2493/dynamix-forms)
 
 A JSON-driven form platform with a framework-independent engine, reusable React packages, and a visual builder backed by an Express API and PostgreSQL. Supports conditional fields, calculations, validation, draft saves, and immutable published versions.
 
-[Read documentation](https://github.com/thuraaung2493/dynamix-forms#readme)
+[View on npm](https://www.npmjs.com/package/@thuraaung2493/dynamic-form-react)
 
 ### [mm-nrc-converter](https://github.com/thuraaung2493/mm-nrc-converter)
 
 A JavaScript package for converting Myanmar National Registration Card formats between English and Myanmar, with format detection and numeral conversion.
 
-[View on npm](https://www.npmjs.com/package/mm-nrc-converter)
+[View on NPM](https://www.npmjs.com/package/@thuraaung2493/mm-nrc-converter)
 
 ### [ts-expressor](https://github.com/thuraaung2493/ts-expressor)
 
 A CLI for generating TypeScript Express applications and the controllers, repositories, and validation schemas used to build APIs.
 
-[View on npm](https://www.npmjs.com/package/ts-expressor)
+[View on NPM](https://www.npmjs.com/package/@thuraaung2493/ts-expressor)
 
 ## Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| Senior Full-stack Developer | Hana Microfinance Limited | Nov 2023 – Present |
-| Full-stack Developer | Solinx Co., Ltd | May 2022 – Sep 2023 |
-| Senior Web Developer | Mother Finance Co., Ltd | May 2019 – Feb 2021 |
-| Junior Web Developer | Bagan Innovation Technology | May 2018 – May 2019 |
+| Role                        | Company                     | Period              |
+| --------------------------- | --------------------------- | ------------------- |
+| Senior Full-stack Developer | Hana Microfinance Limited   | Nov 2023 – Present  |
+| Full-stack Developer        | Solinx Co., Ltd             | May 2022 – Sep 2023 |
+| Senior Web Developer        | Mother Finance Co., Ltd     | May 2019 – Feb 2021 |
+| Junior Web Developer        | Bagan Innovation Technology | May 2018 – May 2019 |
 
 [More about my experience](https://thuraaung2493.github.io/#experience)
 
