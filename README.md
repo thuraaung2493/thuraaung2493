@@ -4,7 +4,7 @@
 
 Building financial applications, payment integrations, and developer tools with Laravel, Node.js, and React.
 
-I build web applications and APIs for financial services, with hands-on experience in offline field workflows and payment integrations. My work spans Laravel and MySQL backends, React interfaces, and Node.js services. I also create open-source tools for Laravel business rules, schema-driven forms, Myanmar NRC data conversion, and TypeScript API scaffolding.
+I build web applications and APIs for financial services, with hands-on experience in offline field workflows and payment integrations. My work spans Laravel and MySQL backends, React interfaces, and Node.js services. I also create open-source tools for Laravel business rules, schema-driven forms, bilingual Myanmar NRC processing, and TypeScript API scaffolding.
 
 **Open to full-time roles and freelance projects.**
 
@@ -15,7 +15,7 @@ I build web applications and APIs for financial services, with hands-on experien
 - **Backend systems:** APIs, business logic, and MySQL databases using PHP, Laravel, Node.js, and Express.
 - **Web applications:** Responsive React interfaces, admin dashboards, and offline field workflows that download interview data and upload completed interviews when connected.
 - **Payment integrations:** Experience connecting applications with 2C2P, KBZ Pay, and MPT Pay.
-- **Open source:** Laravel business rules, schema-driven forms, Myanmar NRC conversion, and TypeScript API scaffolding.
+- **Open source:** Laravel business rules, schema-driven forms, bilingual Myanmar NRC processing, and TypeScript API scaffolding.
 
 ## Tech stack
 
@@ -41,11 +41,17 @@ A JSON-driven form platform with a framework-independent engine, reusable React 
 
 [View on NPM](https://www.npmjs.com/package/@thuraaung2493/dynamic-form-react)
 
-### [mm-nrc-converter](https://github.com/thuraaung2493/mm-nrc-converter)
+### [NRC Kit](https://github.com/thuraaung2493/nrc-kit)
 
-A JavaScript package for converting Myanmar National Registration Card formats between English and Myanmar, with format detection and numeral conversion.
+Offline TypeScript tools for parsing, validating, and converting Myanmar NRC numbers between English and Myanmar. Includes localized reference lookups, configurable data extensions, and optional React selectors and Zod validation.
 
-[View on NPM](https://www.npmjs.com/package/@thuraaung2493/mm-nrc-converter)
+[View on npm](https://www.npmjs.com/package/@thuraaung2493/nrc-kit)
+
+### [Laravel NRC Kit](https://github.com/thuraaung2493/laravel-nrc-kit)
+
+Bilingual NRC parsing, validation, and conversion for Laravel, with a reusable validation rule, a native Blade selector, and a fully editable NRC dataset published through Laravel configuration.
+
+[View on Packagist](https://packagist.org/packages/thuraaung2493/laravel-nrc-kit)
 
 ### [ts-expressor](https://github.com/thuraaung2493/ts-expressor)
 
